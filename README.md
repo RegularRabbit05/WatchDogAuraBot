@@ -3,7 +3,7 @@
 
 A remake of Hypixel Watchdog's AuraBot
 
-![f](https://cdn.discordapp.com/attachments/748984983225499738/1014888466431098880/wdo.gif)
+![f](https://github.com/RegularRabbit05/WatchDogAuraBot/assets/69511985/96024a36-3611-44e2-a2b1-fcd41c22ae11)
 
 
 ## Requirements
@@ -27,10 +27,11 @@ maxCount: 50 # Global, after how many total hits the last player to hit an entit
 ## Showcase
 
 ### Detection:
-![f0](https://cdn.discordapp.com/attachments/748984983225499738/1014885605265657897/detection.gif)
+![f0](https://github.com/RegularRabbit05/WatchDogAuraBot/assets/69511985/a880c73a-200a-4b36-a889-fa1a2ec91107)
+
 
 ### Staff's POV (Only who runs the command is able to see the bot apart from the suspect)
-![f1](https://cdn.discordapp.com/attachments/748984983225499738/1014886030907801621/staff.gif)
+![f1](https://github.com/RegularRabbit05/WatchDogAuraBot/assets/69511985/c3ea414e-f67e-4edc-abf1-f456ff45f873)
 
 ### WARNING - NPCLib might require a "dirty workaround"
 
